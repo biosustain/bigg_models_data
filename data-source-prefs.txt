@@ -47,3 +47,7 @@ refseq_name	RefSeq Gene Name
 refseq_old_locus_tag	RefSeq Old Locus Tag
 refseq_orf_id	RefSeq ORF ID
 refseq_synonym	RefSeq Gene Synonym
+COG	COG	https://www.ncbi.nlm.nih.gov/research/cog/cog/
+ECOCYC	EcoCyc	https://biocyc.org/ECOLI/NEW-IMAGE?object=	EcoCyc,ecocyc
+EnsemblGenomes-Gn	EnsemblGenomes Gene	https://www.ensemblgenomes.org/id/
+EnsemblGenomes-Tr	EnsemblGenomes Transcript	https://www.ensemblgenomes.org/id/
